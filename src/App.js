@@ -5,8 +5,8 @@ import { Fragment } from 'react';
 function App() {
   return (
     <Fragment>
-      <h1>리액트 안녕</h1>
-      <h2>잘 작동하나</h2>
+      <h1>리액트!</h1>
+      <h2>잘 작동?</h2>
     </Fragment>
   );
 }
